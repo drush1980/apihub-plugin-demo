@@ -12,7 +12,7 @@ info:
     - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
   termsOfService: https://swagger.io/terms/
   contact:
-    name: Dude
+    name: The Dude
     email: apiteam@swagger.io
   license:
     name: Apache 2.0
